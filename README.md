@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamil</h1>
-<h3 align="center">Recent CS grad from SUNY New Paltz. </h3>
-<h4 align="center">Passionate about Fullstack Development and cloud technologies.</h4>
+<h3 align="center">Recent CS grad from SUNY New Paltz. Currently working as a Cloud Engineer </h3>
+<h4 align="center">Passionate about System Design and Architecture.</h4>
 
 
 
